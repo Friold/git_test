@@ -1,0 +1,1 @@
+This is Lexanne's first git project!
